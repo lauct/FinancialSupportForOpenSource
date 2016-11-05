@@ -12,16 +12,16 @@ The categories are not mutually exclusive. For example, a project might have a f
 
 -->
 
-# 开源项目挣钱实用手册
-*"我在参与开源项目，但是我该如何挣钱呢？"*
+# 開源項目掙錢實用手冊
+*"我在參與開源項目，但是我該如何掙錢呢？"*
 
-我列出了我从各种渠道所知道的开源项目带来收入的人们的故事，每种出资类型都有一系列的真实案例，粗略的按照出资量从小到大排列。（我已尽可能的将链接指向具体故事而非主页面）
+我列出了我從各種渠道所知道的開源項目帶來收入的人們的故事，每種出資類型都有一系列的真實案例，粗略的按照出資量從小到大排列。（我已盡可能的將鏈接指向具體故事而非主頁面）
 
-本文中的出资类型并非互斥的，例如一个项目既可以由基金会也可以通过众筹来筹集资金，而一个人既可以靠咨询挣钱也可以获得捐赠。本文的主要目的是提供一个详尽的挣钱方式列表，而你只需要从中选出适合你的。
+本文中的出資類型並非互斥的，例如一個項目既可以由基金會也可以通過眾籌來籌集資金，而一個人既可以靠咨詢掙錢也可以獲得捐贈。本文的主要目的是提供一個詳盡的掙錢方式列表，而你只需要從中選出適合你的。
 
-本中文版是[原版](https://github.com/nayafia/lemonade-stand)的翻译版本。
+本中文版是[原版](https://github.com/nayafia/lemonade-stand)的翻譯版本。
 
-原项目名称Lemonade Stand是指销售柠檬汁的小摊，而在美国，这种小摊通常是由小朋友运作的。
+原項目名稱Lemonade Stand是指銷售檸檬汁的小攤，而在美國，這種小攤通常是由小朋友運作的。
 
 ---
 
@@ -49,27 +49,27 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-# 目录
+# 目錄
 
-1. [捐赠按钮](#捐赠按钮)
-2. [悬赏](#悬赏)
-3. [众筹（一次性）](#众筹（一次性）)
-4. [众筹（持续性）](#众筹（持续性）)
-5. [卖书及周边](#卖书及周边)
-6. [广告](#广告)
-7. [受雇于公司并继续你的项目](#受雇于公司并继续你的项目)
-8. [在职时启动项目](#在职时启动项目)
-9. [补贴](#补贴)
-10. [咨询服务](#咨询服务)
+1. [捐贈按鈕](#捐贈按鈕)
+2. [懸賞](#懸賞)
+3. [眾籌（一次性）](#眾籌（一次性）)
+4. [眾籌（持續性）](#眾籌（持續性）)
+5. [賣書及周邊](#賣書及周邊)
+6. [廣告](#廣告)
+7. [受雇於公司並繼續你的項目](#受雇於公司並繼續你的項目)
+8. [在職時啓動項目](#在職時啓動項目)
+9. [補貼](#補貼)
+10. [咨詢服務](#咨詢服務)
 11. [SaaS](#saas)
-12. [双重协议](#双重协议)
-13. [开放核心](#开放核心)
-14. [基金会](#基金会)
-15. [风险投资](#风险投资)
+12. [雙重協議](#雙重協議)
+13. [開放核心](#開放核心)
+14. [基金會](#基金會)
+15. [風險投資](#風險投資)
 
-附录: [贡献](#贡献) // [协议](#协议)
+附錄: [貢獻](#貢獻) // [協議](#協議)
 
-**"个人努力" 用来标记其资金是由个人而非项目主导筹集获得的**
+**"個人努力" 用來標記其資金是由個人而非項目主導籌集獲得的**
 
 
 <!--
@@ -78,9 +78,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-## 捐赠按钮
+## 捐贈按鈕
 
-在你的网站页面里放上捐赠按钮。Stripe和PayPal都可以很方便的提供这项服务。
+在你的網站頁面里放上捐贈按鈕。Stripe和PayPal都可以很方便的提供這項服務。
 
 <!--
 #### Pros
@@ -89,24 +89,24 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 优点
+#### 優點
 
-* 限制条件少
-* 工作量小：放好后就可以不管了
+* 限制條件少
+* 工作量小：放好後就可以不管了
 
 <!--
 ####Cons
 * Usually not much money unless you have dedicated fundraising efforts
 * Need a legal entity to donate to (ex. [SFC](http://sfconservancy.org), [OpenCollective](http://opencollective.com) are fiscal sponsors for this purpose). Harder for individuals or international donations to manage
-* Sometimes not clear who “deserves” money in a project or how it gets distributed
+* Sometimes not clear who 「deserves」 money in a project or how it gets distributed
 
 -->
 
-#### 缺点
+#### 缺點
 
-* 除非你努力筹款，通常都不会有太多钱
-* 需要一个法人实体来接受捐赠（[SFC](http://sfconservancy.org), [OpenCollective](http://opencollective.com)可在这方面提供帮助），因此较难管理个人的国际性捐赠
-* 在多人项目中很难明确如何分配这笔捐赠
+* 除非你努力籌款，通常都不會有太多錢
+* 需要一個法人實體來接受捐贈（[SFC](http://sfconservancy.org), [OpenCollective](http://opencollective.com)可在這方面提供幫助），因此較難管理個人的國際性捐贈
+* 在多人項目中很難明確如何分配這筆捐贈
 
 <!--
 ####Case Studies
@@ -116,7 +116,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 案例学习
+#### 案例學習
 
 * [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
 * [Git](https://git-scm.com/sfc)
@@ -128,9 +128,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-## 悬赏
+## 懸賞
 
-项目或公司可能时不时的张贴开源项目的悬赏工作（例如“修漏洞赚$100”），下面列出了一些网站，他们收集和发布了这类悬赏工作。
+項目或公司可能時不時的張貼開源項目的懸賞工作（例如「修漏洞賺$100」），下面列出了一些網站，他們收集和發佈了這類懸賞工作。
 
 <!--
 ####Pros
@@ -140,11 +140,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 优点
+#### 優點
 
-* 参与到开源社区
-* 确定的工作有确定的回报
-* 在修复安全漏洞方面特别流行
+* 參與到開源社區
+* 確定的工作有確定的回報
+* 在修復安全漏洞方面特別流行
 
 <!--
 ####Cons
@@ -154,11 +154,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 缺点
+#### 缺點
 
-* 会在项目中产生不合理的激励机制（低质量的PR也会影响项目的专注性）
-* 通常没多少钱 (~&lt;$500)
-* 无法提供持久的收入
+* 會在項目中產生不合理的激勵機制（低質量的PR也會影響項目的專注性）
+* 通常沒多少錢 (~&lt;$500)
+* 無法提供持久的收入
 
 <!--
 ####Case Studies
@@ -167,7 +167,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 案例学习
+#### 案例學習
 
 * [Bountysource](http://bountysource.com)
 * [GitHub Bug Bounty Program](https://bounty.github.com/)
@@ -178,9 +178,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-## 众筹（一次性）
+## 眾籌（一次性）
 
-如果你想实现一个特别的想法（区别于长期项目），一次性的众筹活动可以帮助你筹集到你需要的资金，许多个人和公司都可能会为你的想法捐款。
+如果你想實現一個特別的想法（區別於長期項目），一次性的眾籌活動可以幫助你籌集到你需要的資金，許多個人和公司都可能會為你的想法捐款。
 
 <!--
 ####Pros
@@ -189,10 +189,10 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 优点
+#### 優點
 
-* 限制条件少
-* 对个人来说也可以很容易合法的进行，例如通过[Kickstarter](https://kickstarter.com/)
+* 限制條件少
+* 對個人來說也可以很容易合法的進行，例如通過[Kickstarter](https://kickstarter.com/)
 
 <!--
 ####Cons
@@ -203,12 +203,12 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 缺点
+#### 缺點
 
-* 一大堆的市场工作需要做
-* 通常都需要为捐赠者提供回报甚至是特权
-* 通常钱也不是那么多（一次大约$50K）
-* 公司并不常愿意向众筹捐款
+* 一大堆的市場工作需要做
+* 通常都需要為捐贈者提供回報甚至是特權
+* 通常錢也不是那麼多（一次大約$50K）
+* 公司並不常願意向眾籌捐款
 
 <!--
 ####Case Studies
@@ -219,11 +219,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 案例学习
+#### 案例學習
 
-* [Michal Papis + Rvm (个人努力)](https://www.bountysource.com/teams/rvm/fundraiser)
-* [Andrew Godwin + Django (个人努力)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
-* [ribasushi + CPAN (个人努力)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
+* [Michal Papis + Rvm (個人努力)](https://www.bountysource.com/teams/rvm/fundraiser)
+* [Andrew Godwin + Django (個人努力)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* [ribasushi + CPAN (個人努力)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
 * [RESTful WP-CLI](https://www.kickstarter.com/projects/danielbachhuber/a-more-restful-wp-cli)
 
 <!--
@@ -232,9 +232,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-## 众筹（持续性）
+## 眾籌（持續性）
 
-如果你想要为持续性的项目筹集资金，可以设立一个持续性的众筹，捐赠者承诺按月或按年提供资金直到捐赠者退出。对于那些经常使用你的项目的个人或公司可能会愿意为你的项目提供资金。
+如果你想要為持續性的項目籌集資金，可以設立一個持續性的眾籌，捐贈者承諾按月或按年提供資金直到捐贈者退出。對於那些經常使用你的項目的個人或公司可能會願意為你的項目提供資金。
 
 <!--
 ####Pros
@@ -243,10 +243,10 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 优点
+#### 優點
 
-* 限制条件少
-* 对个人来说也可以很容易合法的进行，例如通过[Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Gratipay](https://gratipay.com/), [OpenCollective](https://opencollective.com)
+* 限制條件少
+* 對個人來說也可以很容易合法的進行，例如通過[Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Gratipay](https://gratipay.com/), [OpenCollective](https://opencollective.com)
 
 <!--
 ####Cons
@@ -257,11 +257,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 缺点
+#### 缺點
 
-* 很难获得承诺的持续性捐赠（这通常需要你或项目已经有一定的名声）
-* 很难解释持续性的捐赠能获得什么样明确的回报或特权
-* 通常钱也不是那么多（一个月$1-4K）
+* 很難獲得承諾的持續性捐贈（這通常需要你或項目已經有一定的名聲）
+* 很難解釋持續性的捐贈能獲得什麼樣明確的回報或特權
+* 通常錢也不是那麼多（一個月$1-4K）
 
 <!--
 ####Case Studies
@@ -273,7 +273,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 案例学习
+#### 案例學習
 
 * [MochaJS](https://opencollective.com/mochajs)
 * [React-boilerplate](https://opencollective.com/react-boilerplate)
@@ -287,9 +287,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-## 卖书及周边
+## 賣書及周邊
 
-如果你是某个领域的专家，你可以写书卖书，可以找个出版社（像O'Reilly）或自己出版（译者注：在中国不行）。除了卖书之外，有些项目也卖短袖外套等。
+如果你是某個領域的專家，你可以寫書賣書，可以找個出版社（像O'Reilly）或自己出版（譯者注：在中國不行）。除了賣書之外，有些項目也賣短袖外套等。
 
 <!--
 ####Pros
@@ -299,11 +299,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 优点
+#### 優點
 
-* 筹集到的资金并不和项目本身管理关联，所以项目本身可以保持创作的自由
-* 销售的商品本身也可以当做为项目做的宣传
-* 在初次销售后可以成为持续性的资金来源
+* 籌集到的資金並不和項目本身管理關聯，所以項目本身可以保持創作的自由
+* 銷售的商品本身也可以當做為項目做的宣傳
+* 在初次銷售後可以成為持續性的資金來源
 
 <!--
 ####Cons
@@ -313,11 +313,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 缺点
+#### 缺點
 
-* 通常钱也不是那么多
-* 会影响用在项目上的精力
-* 卖周边需要准备预付资金
+* 通常錢也不是那麼多
+* 會影響用在項目上的精力
+* 賣周邊需要準備預付資金
 
 <!--
 ####Case Studies
@@ -327,11 +327,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 案例学习
+#### 案例學習
 
 * [Lua](https://www.lua.org/pil/)
-* [Daniel and Audrey Roy Greenfeld + Two Scoops of Django (个人努力)](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
-* [Sandi Metz + Practical Object-Oriented Design in Ruby (个人努力)](http://www.poodr.com/)
+* [Daniel and Audrey Roy Greenfeld + Two Scoops of Django (個人努力)](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
+* [Sandi Metz + Practical Object-Oriented Design in Ruby (個人努力)](http://www.poodr.com/)
 
 <!--
 ##Advertising & sponsorships
@@ -339,9 +339,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-## 广告
+## 廣告
 
-如果你的项目已经有了一定的受众，你可以帮助广告商向你的受众推销。通常你的项目都会有明确的受众，这是你的优势也是广告商所喜欢的。（比如你有一个Python项目，那么基本上可以假定你的受众一定是技术上熟悉Python的）
+如果你的項目已經有了一定的受眾，你可以幫助廣告商向你的受眾推銷。通常你的項目都會有明確的受眾，這是你的優勢也是廣告商所喜歡的。（比如你有一個Python項目，那麼基本上可以假定你的受眾一定是技術上熟悉Python的）
 
 <!--
 ####Pros
@@ -349,9 +349,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 优势
+#### 優勢
 
-* 这是成熟明确而且大众也能接受的商业模式
+* 這是成熟明確而且大眾也能接受的商業模式
 
 <!--
 ####Cons
@@ -361,11 +361,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 缺点
+#### 缺點
 
-* 需要足够多的受众才能请来广告商
-* 需要通过透明化来让受众相信你（比如让其信任你不会追踪他们）
-* 需要许多精力来寻找和管理广告商
+* 需要足夠多的受眾才能請來廣告商
+* 需要通過透明化來讓受眾相信你（比如讓其信任你不會追蹤他們）
+* 需要許多精力來尋找和管理廣告商
 
 <!--
 ####Case Studies
@@ -374,7 +374,7 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 案例学习
+#### 案例學習
 
 * [Read the Docs](http://blog.readthedocs.com/ads-on-read-the-docs/)
 * [Hoodie](http://hood.ie/sponsoring/)
@@ -385,9 +385,9 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-## 受雇于公司并继续你的项目
+## 受雇於公司並繼續你的項目
 
-公司有时候会雇佣一些个人来做开源项目，你可以寻找一个正在使用你的开源项目的公司。当然具体在公司里可能公司工作和开源项目工作时间会是五五分。除此之外，也可以找一个愿意尝试使用你的新项目的公司。如果你有展示项目经验，这将会非常有用。
+公司有時候會雇傭一些個人來做開源項目，你可以尋找一個正在使用你的開源項目的公司。當然具體在公司里可能公司工作和開源項目工作時間會是五五分。除此之外，也可以找一個願意嘗試使用你的新項目的公司。如果你有展示項目經驗，這將會非常有用。
 
 <!--
 ####Pros
@@ -397,15 +397,15 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 优点
+#### 優點
 
-* 可以利用公司的资源
+* 可以利用公司的資源
 * 可以很好的和公司的需求保持一致
-* 稳定的收入
+* 穩定的收入
 
 <!--
 ####Cons
-* Usually involves “getting lucky”: no clear, repeatable path to finding this arrangement
+* Usually involves 「getting lucky」: no clear, repeatable path to finding this arrangement
 * Project already needs to be well-known and used
 * Person not contributing to company’s bottom line, which makes them expendable
 * Governance issues, company could have undue influence over project
@@ -413,13 +413,13 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 缺点
+#### 缺點
 
-* 获得这样的机会需要极好的运气，现目前没有明确可重复的方式获得这样的机会
-* 项目通常需要非常出名并且被使用
-* 对于没有为公司的利润工作，这使得个人很容易被公司优先舍弃
-* 公司可能会过分影响项目的发展
-* 可能会因平衡不好两边而影响项目
+* 獲得這樣的機會需要極好的運氣，現目前沒有明確可重復的方式獲得這樣的機會
+* 項目通常需要非常出名並且被使用
+* 對於沒有為公司的利潤工作，這使得個人很容易被公司優先捨棄
+* 公司可能會過分影響項目的發展
+* 可能會因平衡不好兩邊而影響項目
 
 <!--
 ####Case Studies
@@ -430,12 +430,12 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-#### 案例学习
+#### 案例學習
 
-* [Donald Stufft + Hewlett-Packard and Python packaging (个人努力)](https://twitter.com/dstufft/status/594119386333609984)
+* [Donald Stufft + Hewlett-Packard and Python packaging (個人努力)](https://twitter.com/dstufft/status/594119386333609984)
 * [Rich Hickey + Cognitect and Clojure](http://www.bizjournals.com/triangle/news/2013/09/17/durhams-relevance-to-merge-with.html?full=true)
-* [Aaron Patterson + ManageIQ and Ruby, Rails (个人努力)](http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/)
-* [Ryan Dahl + Joyent and Node.js (opens a YouTube video) (个人努力)](http://www.youtube.com/watch?v=SAc0vQCC6UQ&t=29m20s)
+* [Aaron Patterson + ManageIQ and Ruby, Rails (個人努力)](http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/)
+* [Ryan Dahl + Joyent and Node.js (opens a YouTube video) (個人努力)](http://www.youtube.com/watch?v=SAc0vQCC6UQ&t=29m20s)
 
 <!--
 ##Start a project while currently employed
@@ -445,12 +445,12 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 -->
 
-## 在职时启动项目
+## 在職時啓動項目
 
-许多开源项目最初都是员工的编外项目(Side
-Project)，即便其最终可能会成长为一家公司，但以编外项目的形式在公司里进行孵化应该是不错的选择。
+許多開源項目最初都是員工的編外項目(Side
+Project)，即便其最終可能會成長為一家公司，但以編外項目的形式在公司里進行孵化應該是不錯的選擇。
 
-如果你想走这条路，请确定你理解了公司在开源项目上的政策。有些公司鼓励员工在工作时间从事开源项目开发，而有些则将你的任何工作视作公司项目。不要假定任何前提，最好在开始前问问你公司里的相关人员。
+如果你想走這條路，請確定你理解了公司在開源項目上的政策。有些公司鼓勵員工在工作時間從事開源項目開發，而有些則將你的任何工作視作公司項目。不要假定任何前提，最好在開始前問問你公司里的相關人員。
 
 <!--
 ####Pros
@@ -460,11 +460,11 @@ Project)，即便其最终可能会成长为一家公司，但以编外项目的
 
 -->
 
-#### 优点
+#### 優點
 
-* 可以不用担心收入的情况下尝试新想法
+* 可以不用擔心收入的情況下嘗試新想法
 * 可以和公司的需求很好的保持一致
-* 适合尝试新想法
+* 適合嘗試新想法
 
 <!--
 ####Cons
@@ -474,11 +474,11 @@ Project)，即便其最终可能会成长为一家公司，但以编外项目的
 
 -->
 
-#### 缺点
+#### 缺點
 
-* 需要用业余时间开发，或者获准在工作时间开发
-* 有被公司过分影响的风险
-* 持续下去可能会出现极度复杂的管理情况
+* 需要用業餘時間開發，或者獲准在工作時間開發
+* 有被公司過分影響的風險
+* 持續下去可能會出現極度複雜的管理情況
 
 <!--
 ####Case Studies
@@ -489,7 +489,7 @@ Project)，即便其最终可能会成长为一家公司，但以编外项目的
 
 -->
 
-#### 案例学习
+#### 案例學習
 
 * [Mozilla and Rust](https://www.rust-lang.org/faq.html#is-this-project-controlled-by-mozilla)
 * [Google and Go](https://golang.org/doc/faq#history)
@@ -504,11 +504,11 @@ Project)，即便其最终可能会成长为一家公司，但以编外项目的
 
 -->
 
-## 补贴
+## 補貼
 
-补贴是不需要偿还的极其有效的大笔捐赠，提供补贴的组织通常能够通过给予补贴而从其他方面获得利益，例如接近你，展示其影响力，获得你的工作汇报或税率优惠。
+補貼是不需要償還的極其有效的大筆捐贈，提供補貼的組織通常能夠通過給予補貼而從其他方面獲得利益，例如接近你，展示其影響力，獲得你的工作彙報或稅率優惠。
 
-补贴可能来自很多地方，包括公司、软件基金会、慈善基金会以及政府，其技术及法律方面会因其来源的不同有很大的差异。比如一家公司可以通过开咨询费发票给你补贴，而慈善基金会则只能给非盈利组织或个人，通常你得找到一个非盈利组织来帮助你。如果你对补贴不熟悉，了解它的最好方式就是和曾经获得过的人去了解。下面列出了一些成功的案例
+補貼可能來自很多地方，包括公司、軟件基金會、慈善基金會以及政府，其技術及法律方面會因其來源的不同有很大的差異。比如一家公司可以通過開咨詢費發票給你補貼，而慈善基金會則只能給非盈利組織或個人，通常你得找到一個非盈利組織來幫助你。如果你對補貼不熟悉，瞭解它的最好方式就是和曾經獲得過的人去瞭解。下面列出了一些成功的案例
 
 <!--
 ####Pros
@@ -518,11 +518,11 @@ Project)，即便其最终可能会成长为一家公司，但以编外项目的
 
 -->
 
-#### 优点
+#### 優點
 
-* 限制条件少
-* 有保证的资金可以确保你能在一段时间里专注在你的项目上
-* 让你的项目有时间喘口气和做些试验
+* 限制條件少
+* 有保證的資金可以確保你能在一段時間里專注在你的項目上
+* 讓你的項目有時間喘口氣和做些試驗
 
 <!--
 ####Cons
@@ -531,10 +531,10 @@ Project)，即便其最终可能会成长为一家公司，但以编外项目的
 
 -->
 
-#### 缺点
+#### 缺點
 
-* 软件方面没太多提供补贴的组织
-* 补贴是有限的，始终需要在用完补贴前找到一个持续方法
+* 軟件方面沒太多提供補貼的組織
+* 補貼是有限的，始終需要在用完補貼前找到一個持續方法
 
 <!--
 ####Case Studies
@@ -544,7 +544,7 @@ Project)，即便其最终可能会成长为一家公司，但以编外项目的
 
 -->
 
-#### 案例学习
+#### 案例學習
 * [Dat](https://usopendata.org/)
 * [Andrey Petrov + Stripe Open-Source Retreat and urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
@@ -557,9 +557,9 @@ Project)，即便其最终可能会成长为一家公司，但以编外项目的
 
 -->
 
-## 咨询服务
+## 咨詢服務
 
-咨询是一种为开源项目提供资金的灵活方式。你可以更加自由的规划你的时间，比如一周30小时做咨询业务，10小时做开源项目。咨询师通常收费相对较贵，因为工作不稳定且没有公司福利。如果你打算做这类公司，你应该想要创建一家有限责任公司。
+咨詢是一種為開源項目提供資金的靈活方式。你可以更加自由的規劃你的時間，比如一周30小時做咨詢業務，10小時做開源項目。咨詢師通常收費相對較貴，因為工作不穩定且沒有公司福利。如果你打算做這類公司，你應該想要創建一家有限責任公司。
 
 <!--
 ####Pros
@@ -567,9 +567,9 @@ Project)，即便其最终可能会成长为一家公司，但以编外项目的
 
 -->
 
-#### 优点
+#### 優點
 
-* 这是成熟明确而且大众也能接受的商业模式
+* 這是成熟明確而且大眾也能接受的商業模式
 
 <!--
 ####Cons
@@ -580,12 +580,12 @@ Project)，即便其最终可能会成长为一家公司，但以编外项目的
 
 -->
 
-#### 缺点
+#### 缺點
 
-* 咨询工作需要人力，而且不宜规模化（除了极少数）
-* 商业本身的需求会分散开源项目上的注意力
-* 可能会和软件的简易要求有差异
-* 项目需要足够流行，才会让人愿意为相关服务付钱
+* 咨詢工作需要人力，而且不宜規模化（除了極少數）
+* 商業本身的需求會分散開源項目上的注意力
+* 可能會和軟件的簡易要求有差異
+* 項目需要足夠流行，才會讓人願意為相關服務付錢
 
 <!--
 ####Case Studies
@@ -595,7 +595,7 @@ Project)，即便其最终可能会成长为一家公司，但以编外项目的
 
 -->
 
-#### 案例学习
+#### 案例學習
 
 * [Neighbourhoodie](https://neighbourhood.ie/)
 * [Baroque Software](http://baroquesoftware.com/)
@@ -609,7 +609,7 @@ Project)，即便其最终可能会成长为一家公司，但以编外项目的
 
 ## SaaS
 
-SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/Software_as_a_service)。在这个模型下，代码本身是开源的，但是你可以提供增值服务使得用户更容易使用。一个典型的增值服务就是托管付费。
+SaaS 即 [軟件即服務(Software as a Service)](https://en.wikipedia.org/wiki/Software_as_a_service)。在這個模型下，代碼本身是開源的，但是你可以提供增值服務使得用戶更容易使用。一個典型的增值服務就是托管付費。
 
 <!--
 ####Pros
@@ -619,23 +619,23 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 -->
 
-#### 优点
+#### 優點
 
-* 可以围绕这个开源项目建立一个社区，然后通过托管服务赚钱
-* 让开源项目可以专注在用户层面，当需求增加后再帮助企业采用这个项目
-* 可以根据用户数进行规模化改造
+* 可以圍繞這個開源項目建立一個社區，然後通過托管服務賺錢
+* 讓開源項目可以專注在用戶層面，當需求增加後再幫助企業採用這個項目
+* 可以根據用戶數進行規模化改造
 
 <!--
 ####Cons
 * Often means the hosting needs to be cheaper than hiring a dev to run the project for you.
-* “Two tiers” of product support can make free users unhappy
+* 「Two tiers」 of product support can make free users unhappy
 
 -->
 
-#### 缺点
+#### 缺點
 
-* 对增值服务使用者来说，通常意味着托管服务必须比招聘一个人来维护项目更便宜
-* 增值服务有可能会使得免费用户不太高兴
+* 對增值服務使用者來說，通常意味著托管服務必須比招聘一個人來維護項目更便宜
+* 增值服務有可能會使得免費用戶不太高興
 
 <!--
 ####Case Studies
@@ -649,7 +649,7 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 -->
 
-#### 案例学习
+#### 案例學習
 
 * [WordPress.com](http://wordpress.com/)
 * [Moodle](https://moodle.org/)
@@ -665,9 +665,9 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 -->
 
-## 双重协议
+## 雙重協議
 
-有时候项目可以在完全相同的代码里提供两种不同的授权协议：一个是商业友好的，而另外一个则不（例如GPL）。后者对于个人来说可以免费使用，而公司需要通过购买商业协议来获得合法的商业授权。
+有時候項目可以在完全相同的代碼里提供兩種不同的授權協議：一個是商業友好的，而另外一個則不（例如GPL）。後者對於個人來說可以免費使用，而公司需要通過購買商業協議來獲得合法的商業授權。
 
 <!--
 ####Pros
@@ -676,10 +676,10 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 -->
 
-#### 优点
+#### 優點
 
-* 这是成熟明确而且大众也能接受的商业模式
-* 如果成功的话，也可以做到规模化
+* 這是成熟明確而且大眾也能接受的商業模式
+* 如果成功的話，也可以做到規模化
 
 <!--
 ####Cons
@@ -688,10 +688,10 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 -->
 
-#### 缺点
+#### 缺點
 
-* 会和让软件自由获得的理想有冲突
-* 项目需要足够大以满足客户的需求
+* 會和讓軟件自由獲得的理想有衝突
+* 項目需要足夠大以滿足客戶的需求
 
 <!--
 ####Case Studies
@@ -700,7 +700,7 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 -->
 
-#### 案例学习
+#### 案例學習
 
 * [MySQL](http://www.mysql.com/about/legal/licensing/oem/)
 * [SQLite](https://www.sqlite.org/copyright.html)
@@ -711,9 +711,9 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 -->
 
-## 开放核心
+## 開放核心
 
-在[开放核心](https://en.wikipedia.org/wiki/Open_core)模型中，项目的一些方面是免费的，但一些功能则是私有的，且只对付费用户开放，通常要求这个项目有企业的需求。
+在[開放核心](https://en.wikipedia.org/wiki/Open_core)模型中，項目的一些方面是免費的，但一些功能則是私有的，且只對付費用戶開放，通常要求這個項目有企業的需求。
 
 <!--
 ####Pros
@@ -722,24 +722,24 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 -->
 
-#### 优点
+#### 優點
 
-* 这是成熟明确而且大众也能接受的商业模式
-* 如果成功的话，也可以做到规模化
+* 這是成熟明確而且大眾也能接受的商業模式
+* 如果成功的話，也可以做到規模化
 
 <!--
 ####Cons
 * Need to have something you can charge for (which means making certain features exclusive)
 * Can be at odds with making software freely accessible
-* “Two tiers” of product support can make free users unhappy
+* 「Two tiers」 of product support can make free users unhappy
 
 -->
 
-#### 缺点
+#### 缺點
 
-* 需要设计付费项目，且该项目应该是独有的
-* 会和让软件自由获得的理想有冲突
-* 独有功能有可能会使得免费用户不太高兴
+* 需要設計付費項目，且該項目應該是獨有的
+* 會和讓軟件自由獲得的理想有衝突
+* 獨有功能有可能會使得免費用戶不太高興
 
 
 <!--
@@ -751,7 +751,7 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 -->
 
-#### 案例学习
+#### 案例學習
 
 * [Docker](https://www.docker.com/)
 * [Elastic](https://www.elastic.co/)
@@ -764,9 +764,9 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 -->
 
-## 基金会
+## 基金會
 
-[基金会](https://en.wikipedia.org/wiki/Foundation_&#40;nonprofit&#41;)是可以接收和支出的合法法人实体。鉴于其目的并非获得利润，因此可以更好保持中立地管理项目。在美国，基金会可以是501c3（非盈利）或501c6（贸易联盟），许多软件基金会都是贸易联盟，因为非盈利基金会要求展示出慈善的目的，这在软件开发中比较困难。
+[基金會](https://en.wikipedia.org/wiki/Foundation_&#40;nonprofit&#41;)是可以接收和支出的合法法人實體。鑒於其目的並非獲得利潤，因此可以更好保持中立地管理項目。在美國，基金會可以是501c3（非盈利）或501c6（貿易聯盟），許多軟件基金會都是貿易聯盟，因為非盈利基金會要求展示出慈善的目的，這在軟件開發中比較困難。
 
 <!--
 ####Pros
@@ -776,11 +776,11 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 -->
 
-#### 优点
+#### 優點
 
-* 中立，基金会可以帮助保护代码和管理社区
-* 可以在许多捐赠者中散布影响力
-* 使得项目合法，公司会更愿意向基金会付款/捐赠而非个人
+* 中立，基金會可以幫助保護代碼和管理社區
+* 可以在許多捐贈者中散布影響力
+* 使得項目合法，公司會更願意向基金會付款/捐贈而非個人
 
 <!--
 ####Cons
@@ -790,11 +790,11 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 -->
 
-#### 缺点
+#### 缺點
 
-* 只适合大项目
-* 由于IRS的限制，项目能做什么会有所限制
-* 需要大量社区的努力和各种技能，而且之后仍旧需要努力获得筹款
+* 只適合大項目
+* 由於IRS的限制，項目能做什麼會有所限制
+* 需要大量社區的努力和各種技能，而且之後仍舊需要努力獲得籌款
 
 <!--
 ####Case Studies
@@ -804,7 +804,7 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 -->
 
-#### 案例学习
+#### 案例學習
 
 * [Ruby Together](http://rubytogether.org/)
 * [Python Software Foundation](https://www.python.org/psf/)
@@ -818,11 +818,11 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 -->
 
-## 风险投资
+## 風險投資
 
-风险投资是高增长业务的一种筹资形式，不像银行贷款或者任意一种债务财务形式，风险投资者通过提供资金来占有你业务的一定股份。这种交易不像贷款，如果你的业务挂了你并不需要偿还出资方。当然，如果你成功了，你也需要成倍的返还给你的投资者。
+風險投資是高增長業務的一種籌資形式，不像銀行貸款或者任意一種債務財務形式，風險投資者通過提供資金來佔有你業務的一定股份。這種交易不像貸款，如果你的業務掛了你並不需要償還出資方。當然，如果你成功了，你也需要成倍的返還給你的投資者。
 
-风险投资是高风险高回报的：风投者相比银行对风险更加宽容，当然他们也期待你成功后的巨额回报。如果你打算获得风险投资，你应该建立股份有限公司。如果你对风险投资过程不熟悉，开始的最好方式就是询问成功获得风险投资的人。
+風險投資是高風險高回報的：風投者相比銀行對風險更加寬容，當然他們也期待你成功後的巨額回報。如果你打算獲得風險投資，你應該建立股份有限公司。如果你對風險投資過程不熟悉，開始的最好方式就是詢問成功獲得風險投資的人。
 
 <!--
 ####Pros
@@ -831,10 +831,10 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 -->
 
-#### 优点
+#### 優點
 
-* 制度上的支持对成长中的业务有益
-* 大量的风投资金蓄势待发
+* 制度上的支持對成長中的業務有益
+* 大量的風投資金蓄勢待發
 
 <!--
 ####Cons
@@ -843,12 +843,12 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 -->
 
-#### 缺点
+#### 缺點
 
-* 风险投资在投资之初便做好了获得成倍回报后退出的打算，历史证明，由于开源项目的结构特点，风险投资的成功很难。
-* 风险投资者可能会因为优先级改变其动机
+* 風險投資在投資之初便做好了獲得成倍回報後退出的打算，歷史證明，由於開源項目的結構特點，風險投資的成功很難。
+* 風險投資者可能會因為優先級改變其動機
 
-（译者注：在中国有一类风险投资者故意诱导涉世不深的创业者签订不平等协议，尤其是在创业者热情最浓而又最困难的时候，使其在业务失败时也能全身而退，相应的，创业者会输得很惨，值得小心对待）
+（譯者注：在中國有一類風險投資者故意誘導涉世不深的創業者簽訂不平等協議，尤其是在創業者熱情最濃而又最困難的時候，使其在業務失敗時也能全身而退，相應的，創業者會輸得很慘，值得小心對待）
 
 <!--
 ####Case Studies
@@ -861,7 +861,7 @@ SaaS 即 [软件即服务(Software as a Service)](https://en.wikipedia.org/wiki/
 
 -->
 
-#### 案例学习
+#### 案例學習
 
 * [Npm](http://blog.npmjs.org/post/76320673650/funding)
 * [Confluent](http://www.confluent.io/blog/confluent-raises-a-series-b-funding)
@@ -878,15 +878,15 @@ If something is factually incorrect (especially with a case study example), I we
 
 -->
 
-## 贡献
+## 貢獻
 
-我写这个手册主要是为了将我头脑中的知识都整理出来，不过我并没有打算做主要的贡献或改变。优点和缺点大多是从我的观点出发的主观想法。
+我寫這個手冊主要是為了將我頭腦中的知識都整理出來，不過我並沒有打算做主要的貢獻或改變。優點和缺點大多是從我的觀點出發的主觀想法。
 
-如果有什么错误（尤其是案例学习），非常欢迎大家的修改。同时，如果发现有什么分类漏掉了，我也非常欢迎大家的修改。
+如果有什麼錯誤（尤其是案例學習），非常歡迎大家的修改。同時，如果發現有什麼分類漏掉了，我也非常歡迎大家的修改。
 
-关于中文版的贡献，如果有信息上的错误或遗失，请到原文中提出，如果有中文翻译上的错误，请在这里直接提出。如果你觉得有信息上的错误或遗失，但又各种原因无法用英文表述，担心中文表述不会被采纳，这种情况请还是在原文中提出，我或者其他同时会英文和中文的小伙伴会帮助解决问题的。
+關於中文版的貢獻，如果有信息上的錯誤或遺失，請到原文中提出，如果有中文翻譯上的錯誤，請在這裡直接提出。如果你覺得有信息上的錯誤或遺失，但又各種原因無法用英文表述，擔心中文表述不會被採納，這種情況請還是在原文中提出，我或者其他同時會英文和中文的小夥伴會幫助解決問題的。
 
-本翻译项目使用[翻译辅助工具](https://github.com/wizicer/TranslationTool)辅助同步原文修订部分。
+本翻譯項目使用[翻譯輔助工具](https://github.com/wizicer/TranslationTool)輔助同步原文修訂部分。
 
 <!--
 ### License and attribution
@@ -894,12 +894,12 @@ This guide is available under the Creative Commons CC0 1.0 License, meaning you 
 
 -->
 
-## 协议
+## 協議
 
-原文协议为Creative Commons CC0 1.0
-License，即你可以自由的使用，商业或非商业，不过如果你用了，很开心能从你那里听到点什么，在这里找到我[@nayafia](http://twitter.com/nayafia)，当然这并不是要求必须做的。
+原文協議為Creative Commons CC0 1.0
+License，即你可以自由的使用，商業或非商業，不過如果你用了，很開心能從你那裡聽到點什麼，在這裡找到我[@nayafia](http://twitter.com/nayafia)，當然這並不是要求必須做的。
 
-中文版协议为Creative Commons Attribution 4.0 International
-License，和原文协议差不多了，基本上可以说怎么用都可以，唯一不要修改原作者名字或以原作者名字声明演绎作品就可以了。
+中文版協議為Creative Commons Attribution 4.0 International
+License，和原文協議差不多了，基本上可以說怎麼用都可以，唯一不要修改原作者名字或以原作者名字聲明演繹作品就可以了。
 
 ![](https://i.creativecommons.org/l/by/4.0/88x31.png)
